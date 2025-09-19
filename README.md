@@ -1,10 +1,8 @@
  <h1>Hi there, I'm Inna 🖖🏼 </h1>
- <h3>an indefatigable frontend developer from St.Petersburg</h3>
+ <h3>an indefatigable android developer from St.Petersburg</h3>
  
  <p><img src="./images/gimmeCode.gif" width="200px" alt="GIF with a cat that wants to code"></p>
 
-- 🔭 I’m currently working on my Language-learning-flashcards app
-- 🌱 I’m currently learning React
 - 💪🏼 Ask me about training in the gym and building a beautiful body
 - ☢️ Сurious fact: I was involved in the design of nuclear power plants around the world 
 
