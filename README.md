@@ -1,7 +1,7 @@
  <h1>Hi there, I'm Inna 👋 </h1>
- <h3>Android Developer based in Saint Petersburg, Russia</h3>
+ <h3>Android Developer based in Saint Petersburg, Russia📍 </h3>
 
-##✨ A few things about me
+## ✨ A few things about me
 - 🏋🏼‍♀️ Gym lover & strength enthusiast
 - ☢️ Curious fact: designed 9 nuclear power plants around the world
 - 🎮 I’m a big fan of economic strategy games — give me an economy to optimize and I’m happy
