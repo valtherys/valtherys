@@ -7,40 +7,68 @@
 - 🎮 I’m a big fan of economic strategy games — give me an economy to optimize and I’m happy
 - 🎨 I love turning blank screens into beautiful, intuitive interfaces
 
-<h3>Connect with me:</h3>
-<a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
-<a href="mailto:melikhovainna@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
-
 ## 🛠️ Tech Stack
 
-### Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+### 📱 Android
 
-### Architecture & Libraries
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-6C63FF?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
-
-### Development
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-
-<h3>Technologies:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" > <img src="./icons/css3.svg" alt="css3 icon" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html5.svg" alt="html5 icon" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="./icons/javascript.svg" alt="javascript icon" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" > <img src="./icons/react.svg" alt="react icon" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.svg" alt="git icon" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" > <img src="./icons/sass.svg" alt="sass icon" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.svg" alt="bootstrap icon" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank"> <img src="./icons/chart.svg" alt="chartjs icon" width="40" height="40"/> </a>
-<a href="https://momentjs.com/" target="_blank"> <img src="./icons/momentjs.svg" alt="momentjs icon" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank" style="text-decoration:none;">
+    <img src="./icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" style="text-decoration:none;">
+    <img src="./icons/android.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" style="text-decoration:none;">
+    <img src="./icons/jetpack-compose.svg" alt="Jetpack Compose" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank" style="text-decoration:none;">
+    <img src="./icons/xml.svg" alt="XML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/kotlin/coroutines" target="_blank" style="text-decoration:none;">
+    <img src="./icons/coroutines.svg" alt="Coroutines" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/reference/android/media/MediaPlayer" target="_blank" style="text-decoration:none;">
+    <img src="./icons/media-player.svg" alt="Media Player" width="40" height="40"/>
+  </a>
 </p>
+
+### 🧩 Architecture & Libraries
+
+<p align="left">
+  <a href="#" style="text-decoration:none;">
+    <img src="./icons/mvi.svg" alt="MVI" width="40" height="40"/>
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="./icons/mvvm.svg" alt="MVVM" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank" style="text-decoration:none;">
+    <img src="./icons/room.svg" alt="Room" width="40" height="40"/>
+  </a>
+  <a href="https://square.github.io/retrofit/" target="_blank" style="text-decoration:none;">
+    <img src="./icons/retrofit.svg" alt="Retrofit" width="40" height="40"/>
+  </a>
+  <a href="https://dagger.dev/hilt/" target="_blank" style="text-decoration:none;">
+    <img src="./icons/hilt.svg" alt="Hilt" width="40" height="40"/>
+  </a>
+  <a href="https://insert-koin.io/" target="_blank" style="text-decoration:none;">
+    <img src="./icons/koin.svg" alt="Koin" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/bumptech/glide" target="_blank" style="text-decoration:none;">
+    <img src="./icons/glide.svg" alt="Glide" width="40" height="40"/>
+  </a>
+</p>
+
+### 🌐 Networking & Architecture
+
+<p align="left">
+  <a href="#" style="text-decoration:none;">
+    <img src="./icons/rest-api.svg" alt="REST API" width="40" height="40"/>
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="./icons/multi-module.svg" alt="Multi-module architecture" width="40" height="40"/>
+  </a>
+</p>
+
+<h3>📬 Let's connect</h3>
+<a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
+<a href="mailto:melikhovainna@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
