@@ -39,6 +39,6 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![Detekt](https://img.shields.io/badge/Detekt-5C2D91?style=for-the-badge)](https://detekt.dev/)
 
-<h3>📬 Let's connect</h3>
+## 📬 Let's connect
 <a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
 <a href="mailto:melikhovainna@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
