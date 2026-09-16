@@ -17,10 +17,10 @@
 
 ### 🧩 Architecture
 
-[![MVI](https://img.shields.io/badge/MVI-7F52FF?style=for-the-badge)](https://github.com/orbit-mvi/orbit-mvi)
-[![MVVM](https://img.shields.io/badge/MVVM-7F52FF?style=for-the-badge)](https://developer.android.com/topic/architecture)
-[![Multi-module](https://img.shields.io/badge/Multi--module-7F52FF?style=for-the-badge)](https://developer.android.com/topic/modularization)
-[![REST API](https://img.shields.io/badge/REST%20API-7F52FF?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[![MVI](https://img.shields.io/badge/MVI-8B5CF6?style=for-the-badge)](https://github.com/orbit-mvi/orbit-mvi)
+[![MVVM](https://img.shields.io/badge/MVVM-6366F1?style=for-the-badge)](https://developer.android.com/topic/architecture)
+[![Multi-module](https://img.shields.io/badge/Multi--module-3B82F6?style=for-the-badge)](https://developer.android.com/topic/modularization)
+[![REST API](https://img.shields.io/badge/REST%20API-06B6D4?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
 ### ⚙️ Android Libraries & APIs
 
