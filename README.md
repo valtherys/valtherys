@@ -10,7 +10,6 @@
 ## 🛠️ Tech Stack
 
 ### 📱 Android Development
-
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
@@ -27,62 +26,26 @@
 </p>
 
 ### 🧩 Architecture 
-
-<p align="left">
-  <a href="#" style="text-decoration:none;">
-    <img src="./icons/mvi.svg" alt="MVI" width="40" height="40"/>
-  </a>
-  <a href="#" style="text-decoration:none;">
-    <img src="./icons/mvvm.svg" alt="MVVM" width="40" height="40"/>
-  </a>
-   <a href="#" style="text-decoration:none;">
-    <img src="./icons/multi-module.svg" alt="Multi-module architecture" width="40" height="40"/>
-  </a>
-   <a href="#" style="text-decoration:none;">
-    <img src="./icons/rest-api.svg" alt="REST API" width="40" height="40"/>
-  </a>
-</p>
+![MVI](https://img.shields.io/badge/MVI-7F52FF?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-7F52FF?style=for-the-badge)
+![Multi-module](https://img.shields.io/badge/Multi--module-7F52FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-7F52FF?style=for-the-badge)
 
 ### ⚙️ Android Libraries & APIs
+![Room](https://img.shields.io/badge/Room-6C63FF?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-FFB300?style=for-the-badge&logo=kotlin&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-4285F4?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MediaPlayer](https://img.shields.io/badge/MediaPlayer-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="left">
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank" style="text-decoration:none;">
-    <img src="./icons/room.svg" alt="Room" width="40" height="40"/>
-  </a>
-  <a href="https://square.github.io/retrofit/" target="_blank" style="text-decoration:none;">
-    <img src="./icons/retrofit.svg" alt="Retrofit" width="40" height="40"/>
-  </a>
-  <a href="https://dagger.dev/hilt/" target="_blank" style="text-decoration:none;">
-    <img src="./icons/hilt.svg" alt="Hilt" width="40" height="40"/>
-  </a>
-  <a href="https://insert-koin.io/" target="_blank" style="text-decoration:none;">
-    <img src="./icons/koin.svg" alt="Koin" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/bumptech/glide" target="_blank" style="text-decoration:none;">
-    <img src="./icons/glide.svg" alt="Glide" width="40" height="40"/>
-  </a>
-     <a href="https://developer.android.com/kotlin/coroutines" target="_blank" style="text-decoration:none;">
-    <img src="./icons/coroutines.svg" alt="Coroutines" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/reference/android/media/MediaPlayer" target="_blank" style="text-decoration:none;">
-    <img src="./icons/media-player.svg" alt="Media Player" width="40" height="40"/>
-  </a>
-</p>
 
 ### 🧰 Tools & Workflow
- <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://gradle.org/" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/> 
-  </a> <a href="https://github.com/features/actions" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/> 
-  </a> 
-  <a href="https://detekt.dev/" target="_blank"> 
-   <img src="https://detekt.dev/images/detekt-logo.svg" alt="Detekt" width="40" height="40"/> 
-  </a> 
- </p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Detekt](https://img.shields.io/badge/Detekt-5C2D91?style=for-the-badge)
 
 <h3>📬 Let's connect</h3>
 <a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
