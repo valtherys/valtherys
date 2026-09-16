@@ -10,12 +10,10 @@
 ## 🛠️ Tech Stack
 
 ### 📱 Android Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/>
-</p>
+ <a href="https://kotlinlang.org/" target="_blank" style="text-decoration:none;border:0;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"></a>
+  <a href="https://developer.android.com/" target="_blank" style="text-decoration:none;border:0;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" style="text-decoration:none;border:0;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40"></a>
+  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank" style="text-decoration:none;border:0;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="40" height="40"></a>
 
 ### 🧩 Architecture 
 ![MVI](https://img.shields.io/badge/MVI-7F52FF?style=for-the-badge)
